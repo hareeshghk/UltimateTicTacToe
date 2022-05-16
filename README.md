@@ -1,6 +1,11 @@
 # UltimateTicTacToe
 ARTIFICIAL INTELLIGENCE course project - spring 2016
 
+
+(TODO) Incomplete uploads needs more Fixing
+
+
+
 Rules of the Game are not same as Normal TicTacToe. Check the https://github.com/hareeshghk/UltimateTicTacToe/blob/master/AI-Project-2016.pdf for rules of the game.
 
 Project is to create a bot which plays the game by making optimal moves.
